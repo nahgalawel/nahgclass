@@ -1,0 +1,6 @@
+{
+  "name": "نهج الأوائل",
+  "description": "منصة نهج الأوائل - الفصول الإلكترونية واختبارات الطلاب التفاعلية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
