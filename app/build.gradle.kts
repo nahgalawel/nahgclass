@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.nahgalawel.mas"
+    namespace = "com.nahgclass.app"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.nahgalawel.mas"
+        applicationId = "com.nahgclass.app"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
